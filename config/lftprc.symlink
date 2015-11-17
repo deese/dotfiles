@@ -1,0 +1,7 @@
+set ssl:verify-certificate false
+set ftp:ssl-force true
+set cache:enable yes
+set cache:expire 2m
+set cache:expire-negative 2m
+set cache:size 512
+
