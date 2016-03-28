@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Bootstrap 3 Snippets",
+		"BracketHighlighter",
+		"Djaneiro",
+		"Django Manage Commands",
+		"Git",
+		"GitGutter",
+		"Jedi - Python autocompletion",
+		"jQuery",
+		"Modific",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Terminal"
+	]
+}
